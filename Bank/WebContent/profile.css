@@ -1,0 +1,118 @@
+@CHARSET "UTF-8";
+
+
+#txt
+{
+	margin-top:50px;
+}
+
+.main
+{
+	width:800px;
+	height:900px;
+	margin-left:250px;
+	margin-top:30px;
+	text-align:center;
+	border:1px solid;
+	
+	
+}
+
+.container
+{
+
+	width:800px;
+	height:90px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left
+}
+
+.name
+{
+	width:396px;
+	height:89px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	text-align:center;
+	line-height:80px;
+}
+
+.age
+{
+	width:396px;
+	height:89px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	text-align:center;
+	line-height:80px;
+
+}
+
+.gender
+{
+	width:396px;
+	height:89px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	text-align:center;
+	line-height:80px;
+}
+
+.addr
+{
+	width:396px;
+	height:89px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	text-align:center;
+	line-height:80px;
+}
+
+.acc
+{
+	width:396px;
+	height:89px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	text-align:center;
+	line-height:80px;
+}
+
+.phone
+{
+	width:396px;
+	height:89px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	text-align:center;
+	line-height:80px;
+}
+
+.email
+{
+	width:396px;
+	height:89px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	text-align:center;
+	line-height:80px;
+}
+
+.user
+{
+	width:396px;
+	height:89px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+	text-align:center;
+	line-height:80px;
+}

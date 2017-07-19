@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+.main
+{
+	width:500px;
+	height:400px;
+	margin-left:350px;
+	margin-top:100px;
+	text-align:center;
+	border:1px solid;
+}
+
+.container
+{
+	width:500px;
+	height:100px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+}
+
+.user_name
+{
+	width:240px;
+	height:100px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;
+}
+
+#txt
+{
+	margin-top:20px;
+}
+
+.pass
+{
+	width:240px;
+	height:100px;
+	margin-left:0px;
+	margin-top:0px;
+	float:left;	
+}
+
+#btn
+{
+	margin-top:30px;
+}

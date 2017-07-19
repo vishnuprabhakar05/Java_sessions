@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+
+	
+
+.container
+{
+	width: 500px;
+	height: 500px;
+	margin-left: 300px;
+	margin-top: 100px;
+	text-align: center;
+	border: 1px solid;
+
+	
+}
+
+#txt
+{
+	margin-top: 20px;
+}
+
+.acc_no
+{
+	width:240px;
+	height:150px;
+	margin-top: :0px;
+	margin-left: 0px;
+	float: left;
+}
